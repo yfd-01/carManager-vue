@@ -1,0 +1,43 @@
+{
+  "name": "carmanage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.26.1",
+    "better-scroll": "^2.4.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.4",
+    "font-awesome": "^4.7.0",
+    "image-conversion": "^2.1.1",
+    "normalize.css": "^8.0.1",
+    "nprogress": "^0.2.0",
+    "pubsub-js": "^1.9.4",
+    "push.js": "^1.0.12",
+    "vue": "^3.2.13",
+    "vue-esign": "^1.1.0",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "compression-webpack-plugin": "^10.0.0",
+    "sass": "^1.50.0",
+    "sass-loader": "^12.6.0",
+    "svg-sprite-loader": "^6.0.11",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

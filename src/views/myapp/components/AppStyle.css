@@ -1,0 +1,41 @@
+.addr,
+.time,
+.item,
+.mile,
+.cost,
+.value,
+.price,
+.volume,
+.remainder,
+.addr,
+.finish,
+.gasType,
+.refSelf {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+.addrInput,
+.timeInput,
+.gasTypeInput,
+.itemInput {
+  text-align: center;
+  width: 100%;
+}
+
+.mileInput,
+.costInput,
+.balanceInput,
+.valueInput,
+.priceInput,
+.volumeInput {
+  width: 100%;
+}
+
+.AppTypeTitle {
+  /* width: 30%; */
+  width: 120px;
+}
